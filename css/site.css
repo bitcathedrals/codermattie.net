@@ -1,0 +1,125 @@
+@charset "UTF-8";
+
+h1,h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+h1,h2 {
+ font-size: 18pt;
+ font-weight: bold;
+ text-align: center;
+}
+
+h3,h4 {
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+{
+	
+p li a {
+  font-size: 14pt;		
+}
+
+html, body {
+  padding: 1rem;	
+}
+
+.card {
+  margin-top: 1em;
+}
+
+.haiku {
+  text-align: center;
+  align-content: center;
+}
+
+.code {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+  align-content: center;
+  justify-content: center;
+}
+
+.card-body {
+  margin-top: 1em;
+  text-align: center;
+}
+
+.carousel-caption {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.carousel-caption h4 {
+  margin-bottom: 10px;
+}
+
+div#experience {
+  margin-top: 2rem;
+}
+
+html,body {
+  background-color: black;
+}
+
+.list-group-item {
+  display: flex;
+
+  color: cadetblue;
+  font-size: 16pt;
+
+  text-align: center;
+  align-content: center;
+}
+
+div#exp-carousel {
+  margin-top: 1rem;
+}
+
+.carousel-inner {
+  padding-left: 30%;
+}
+
+@media only screen and (max-width: 500px) {
+  .carousel-inner {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+.exp-slide {
+  display: flex;
+
+  justify-content: center;
+  align-content: center;
+}
+
+.exp-image {
+  display: flex;
+
+  justify-content: center;
+  align-content: center;
+}
+
+@media only screen and (max-width: 500px) {
+  .exp-image {
+    width: 18rem;
+    height: 18rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .exp-details {
+    width: 18rem;
+    height: 18rem;
+  }
+}
+
+.exp-details div {
+  display: flex;
+
+  justify-content: center;
+  align-content: center;
+}
