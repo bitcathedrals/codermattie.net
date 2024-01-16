@@ -34,7 +34,7 @@ html, body {
   align-content: center;
 }
 
-.code {
+div#code {
   margin-top: 2rem;
   margin-bottom: 2rem;
 
