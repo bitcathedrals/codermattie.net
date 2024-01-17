@@ -83,6 +83,12 @@ div#exp-carousel {
 }
 
 @media only screen and (max-width: 500px) {
+  .col-sm-10 {
+    margin-top: 1rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
   .carousel-inner {
     padding-left: 3rem;
     padding-right: 3rem;
