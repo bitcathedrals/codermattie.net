@@ -85,13 +85,6 @@ div#exp-carousel {
   align-content: center;
 }
 
-.exp-image {
-  display: flex;
-
-  justify-content: center;
-  align-content: center;
-}
-
 @media only screen and (max-width: 500px) {
   .exp-image {
     width: 18rem;
